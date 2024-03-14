@@ -58,7 +58,7 @@ This guide outlines the installation process for the TPL scripting language. Her
 
 Before diving into either installation method, you'll need to download the TPL interpreter. Head over to the release section: [TPL Releases](https://github.com/Tanish-Ranjan/TPL/releases)
 
-- Locate the latest version (as of now, [v0.1.0-beta03](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta03)).
+- Locate the latest version (as of now, [v0.1.0-beta04](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta04)).
 - Download the interpreter available as a JAR file.
 
 ### 1\. Using the TPL VS Code Extension (Recommended)
