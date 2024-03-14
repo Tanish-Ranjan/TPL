@@ -31,7 +31,7 @@ The Professional's Language (TPL) is a modern, multi-paradigm scripting language
 
 ## License:
 
-TPL is licensed under the TPL License.  See the LICENSE for more information: [LICENSE](https://github.com/Tanish-Ranjan/TPL/blob/main/LICENSE)
+TPL is licensed under the TPL License.  See the [LICENSE](https://github.com/Tanish-Ranjan/TPL/blob/main/LICENSE) for more information.
 
 # Installation
 
