@@ -9,7 +9,7 @@ The Professional's Language (TPL) is a modern, multi-paradigm scripting language
 
 - Multi-paradigm Design: Seamlessly blend high-level and low-level programming paradigms.
 - Dynamic Typing & Garbage Collection: Simplified development and efficient memory management.
-= Multi-threading Support: Optimize execution and utilize computational resources effectively.
+- Multi-threading Support: Optimize execution and utilize computational resources effectively.
 - Kotlin Integration: Embed Kotlin code blocks for powerful functionality.
 - Easy to Learn & Use: Clear syntax and a smooth learning curve.
 - Memory Safety: Minimizes memory-related errors for a robust development environment.
