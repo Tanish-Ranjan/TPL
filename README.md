@@ -37,7 +37,7 @@ TPL is licensed under the TPL License.  See the [LICENSE](https://github.com/Tan
 
 ## Prerequisites (Java)
 
-Before installing the TPL interpreter, ensure you have Java 8 or above installed on your system. TPL relies on Java to execute code.
+Before installing the TPL interpreter, ensure you have **Java 8 or above** installed on your system. TPL relies on Java to execute code.
 
 ### Verifying Java Installation
 
