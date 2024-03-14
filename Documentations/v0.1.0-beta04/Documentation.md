@@ -278,7 +278,7 @@ var result = calculate_area(5, 3)  // result will hold the calculated area
 print("Area: " + result)  // Output: Area: 15
 ```
 
-### Benefits of Functions:
+## Benefits of Functions:
 - Code Reusability: Functions allow you to write code once and use it multiple times within your program or in other scripts.
 - Improved Readability: Breaking down complex tasks into functions enhances code readability and maintainability.
 - Modular Design: Functions promote modular design by organizing code into well-defined, independent units.
