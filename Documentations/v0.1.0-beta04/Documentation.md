@@ -209,7 +209,7 @@ if (age >= 18) {
 }
 ```
 
-For more comprehensive information on decision-making statements in TPL, including nested `if` structures and the `switch` statement, refer to the [Decision-Making Statements](./advanced/DecisionMaking.md) in advanced section.
+For more comprehensive information on decision-making statements in TPL, including nested `if` structures and the `switch` statement, refer to the [Decision-Making Statements](./advanced/DecisionMakingStatements.md) in advanced section.
 
 ## 2. Loops (for/while)
 Loops enable you to execute a block of code repeatedly until a particular condition is met.
