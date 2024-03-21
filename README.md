@@ -1,19 +1,21 @@
 # The Professional's Language (TPL)
 
-The Professional's Language (TPL) is a modern, multi-paradigm scripting language designed to empower developers of all levels to create efficient and versatile applications. It combines the:
+The Professional's Language (TPL) is a modern, procedural scripting language developed using Kotlin. It is designed to empower developers of all levels to create efficient and versatile applications. It combines the:
 
 - Simplicity of high-level languages for clear and concise code.
 - Power of low-level languages for intricate system programming.
 
 ## Key Features:
 
-- Multi-paradigm Design: Seamlessly blend high-level and low-level programming paradigms.
-- Dynamic Typing & Garbage Collection: Simplified development and efficient memory management.
-- Multi-threading Support: Optimize execution and utilize computational resources effectively.
-- Kotlin Integration: Embed Kotlin code blocks for powerful functionality.
-- Easy to Learn & Use: Clear syntax and a smooth learning curve.
-- Memory Safety: Minimizes memory-related errors for a robust development environment.
-- Plugin System: Customize the compiler and tailor TPL to your specific needs.
+- **Built with Kotlin:** Leverages the power and features of the Kotlin language for TPL's core functionalities.
+- **Interpreted Execution (with future compiler):** Currently runs code line by line during execution. A compiler for pre-compiling TPL code into machine code is planned for future releases.
+- **Multi-paradigm Design:** Seamlessly blend high-level and low-level programming paradigms.
+- **Dynamic Typing & Garbage Collection:** Simplified development and efficient memory management.
+- **Multi-threading Support:** Optimize execution and utilize computational resources effectively.
+- **Kotlin Integration:** Embed Kotlin code blocks for powerful functionality.
+- **Easy to Learn & Use:** Clear syntax and a smooth learning curve.
+- **Memory Safety:** Minimizes memory-related errors for a robust development environment.
+- **Plugin System:** Customize the compiler and tailor TPL to your specific needs.
 
 ## Who Should Use tpl?
 
@@ -51,17 +53,17 @@ If Java is installed correctly, you should see the installed Java version displa
 
 This guide outlines the installation process for the TPL scripting language. Here, we'll cover two options:
 
-1. Using the TPL VS Code Extension (Recommended)
+1. Using the TPL VS Code Extension **(Recommended)**
 2. Traditional Command-Line Installation
 
 ## Downloading the TPL Interpreter
 
 Before diving into either installation method, you'll need to download the TPL interpreter. Head over to the release section: [TPL Releases](https://github.com/Tanish-Ranjan/TPL/releases)
 
-- Locate the latest version (as of now, [v0.1.0-beta04](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta04)).
+- Locate the latest version (as of now, [v0.1.0-beta05](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta05)).
 - Download the interpreter available as a JAR file.
 
-### 1\. Using the TPL VS Code Extension (Recommended)
+### 1\. Using the TPL VS Code Extension **(Recommended)**
 
 For a convenient and integrated development environment, we recommend using the TPL VS Code extension. It allows you to work with TPL scripts directly within VS Code. To install it:
 
