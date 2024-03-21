@@ -1,6 +1,6 @@
 # Getting Started
 Welcome to the world of TPL! This section guides you through your first steps in writing and running TPL programs.
-<br>This documentations is for the release [v0.1.0-beta04](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta04).
+<br>This documentations is for the release [v0.1.0-beta05](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta05).
 
 ## 1. Installation Guide
 Before diving into coding, ensure you have TPL properly installed on your system. Refer to the detailed [installation guide](../../README.md#installation).
@@ -440,4 +440,4 @@ We'll explore TPL plugins in more detail in [Plugins](./advanced/Plugins.md) ava
 
 # Keeping Up-to-Date
 
-TPL is constantly evolving, with new features and improvements being added in each release. This documentation reflects the functionalities available in TPL version [v0.1.0-beta04](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta04). Be sure to check the [releases section](https://github.com/Tanish-Ranjan/TPL/releases) for the latest updates and information on newer versions.
+TPL is constantly evolving, with new features and improvements being added in each release. This documentation reflects the functionalities available in TPL version [v0.1.0-beta05](https://github.com/Tanish-Ranjan/TPL/releases/tag/v0.1.0-beta05). Be sure to check the [releases section](https://github.com/Tanish-Ranjan/TPL/releases) for the latest updates and information on newer versions.
